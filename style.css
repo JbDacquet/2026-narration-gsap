@@ -6,7 +6,9 @@
 }
 
 /* Variables ----------------------- */
-
+:root{
+    --c-text: black;
+}
 
 /* Typographies ----------------------- */
 
